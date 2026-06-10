@@ -1,0 +1,8 @@
+{
+  "name": "enginebot",
+  "version": "1.0.0",
+  "description": "EngineBot - Responsible AI Assistant by BeLight Nexus AI",
+  "dependencies": {
+    "node-fetch": "^2.6.9"
+  }
+}
